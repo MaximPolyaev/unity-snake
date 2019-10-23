@@ -1,0 +1,13 @@
+.idea/
+Packages/
+Assembly-CSharp.csproj
+Library/
+Logs/
+ProjectSettings/
+Temp/
+obj/
+
+Assets/*.pfx
+Assets/*.meta
+Assets/Plugins/
+Assets/**/*.meta
